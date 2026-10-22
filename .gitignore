@@ -1,0 +1,23 @@
+# Wi-Fi credentials
+secrets.h
+
+# Build output
+build/
+*.uf2
+*.elf
+*.bin
+*.hex
+*.map
+*.dis
+
+# Editor / tooling
+.cache/
+compile_commands.json
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
